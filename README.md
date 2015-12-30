@@ -17,9 +17,9 @@ The preferred way of installation is via [CocoaPods](http://cocoapods.org). Just
 pod 'MMPulseView'
 ```
 
-and run `pod install`. It will install the most recent version of MMPopupView.
+and run `pod install`. It will install the most recent version of MMPulseView.
 
-If you would like to use the latest code of MMPopupView use:
+If you would like to use the latest code of MMPulseView use:
 
 ```ruby
 pod 'MMPulseView', :head
